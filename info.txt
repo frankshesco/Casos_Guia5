@@ -1,0 +1,5 @@
+Datos Registrados
+-----------------
+Nombre y Apellido....: FRANK VALLADARES
+Genero.....: Masculino
+Edad: Menor de edad
